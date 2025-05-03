@@ -1,4 +1,4 @@
-h1{
+/* h1{
   background-color: bisque;
   color: rgb(0, 0, 0);
   text-align: center;
@@ -12,8 +12,83 @@ h1{
 } */
 
 
-.parents  p{
+/* .parents  p{
   background-color:red;
   color: white;
   text-align: center;
+} */ 
+
+
+body{
+  background-color: gray;
+  margin: 30px 50px;
+
+  
+}
+h1{
+  color:black;
+  border: 2px solid whitesmoke;
+  background-color: aliceblue;
+  padding: 20px 20px;
+  
+
+}
+p{
+  color: white;
+  text-align: left;
+  padding: 10px 10px;
+  
+
+}
+.coloring14{
+  background-color: #0088dc;
+
+}.coloring13{
+  background-color:   #0095e2;
+
+}.coloring12{
+  background-color: #00a0e6;
+
+}.coloring11{
+  background-color: #30abe7;
+
+}.coloring10{
+  background-color: #55b5ec;
+
+}.coloring9{
+  background-color: #74c0f1;
+
+}.coloring8{
+  background-color: #82d2ef;
+
+}.coloring7{
+  background-color: #00bc86;
+
+}.coloring6{
+  background-color: #f6b0cc;
+
+}.coloring5{
+  background-color: #f58cb2;
+
+}.coloring4{
+  background-color: #f47ba6;
+
+}.coloring3{
+  background-color: #f27ca6;
+
+}
+.coloring2{
+  background-color: #f66896;
+
+}.coloring1{
+  background-color: #f45a8c;
+
+}
+.coloring0{
+  background-color: #ee3e7f;
+
+}
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
 }
